@@ -1,0 +1,6 @@
+main: br.com.weavenmc.ypvp.yPvP
+name: game-pvp
+version: 3.0
+authors: [skxy]
+website: loja.mc-weaven.com.br
+depend: [Commons]

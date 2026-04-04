@@ -1,0 +1,5 @@
+main: br.com.weavenmc.login.Login
+name: auth-login
+version: 3.0
+depend: [Commons]
+website: loja.mc-weaven.com.br

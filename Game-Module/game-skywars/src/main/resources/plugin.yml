@@ -1,0 +1,6 @@
+name: game-skywars
+version: 1.0.0-SNAPSHOT
+main: br.com.weavenmc.skywars.WeavenSkywars
+authors: [king, SuleimanDEV]
+website: www.mc-weaven.com.br
+commands:

@@ -1,0 +1,6 @@
+main: br.com.weavenmc.commons.bukkit.BukkitMain
+name: core-commons
+version: 3.0
+website: loja.mc-weaven.com.br
+depend: [ProtocolLib, ViaVersion]
+load: STARTUP
