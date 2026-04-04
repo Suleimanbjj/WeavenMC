@@ -1,6 +1,6 @@
 main: br.com.weavenmc.lobby.Lobby
 name: lobby-sw
-version: 3.0
+version: 4.1-release
 authors: [skxy]
 website: loja.mc-weaven.com.br
 description: A lobby server system

@@ -3,13 +3,13 @@
   <parent>
     <groupId>br.com.weavenmc</groupId>
     <artifactId>WeavenMC-Module</artifactId>
-    <version>3.1-SNAPSHOT</version>
+    <version>4.1-release</version>
     <relativePath>../../pom.xml</relativePath>
   </parent>
   <groupId>br.com.weavenmc.kitpvp</groupId>
   <artifactId>game-pvp</artifactId>
   <name>game-pvp</name>
-  <version>3.1-SNAPSHOT</version>
+  <version>4.1-release</version>
   <dependencies>
 		<dependency>
 			<groupId>br.com.weavenmc.commons</groupId>

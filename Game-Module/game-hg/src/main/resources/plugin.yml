@@ -1,6 +1,6 @@
 main: br.com.weavenmc.hg.HungerGames
 name: game-hg
-version: 1.0
+version: 4.1-release
 website: loja.mc-weaven.com.br
 authors: [Adleer, SuleimanDEV]
 depend: [Commons]

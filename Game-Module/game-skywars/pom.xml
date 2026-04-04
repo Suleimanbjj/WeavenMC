@@ -7,14 +7,14 @@
 	<parent>
 		<groupId>br.com.weavenmc</groupId>
 		<artifactId>WeavenMC-Module</artifactId>
-		<version>3.1-SNAPSHOT</version>
+		<version>4.1-release</version>
 		<relativePath>../../pom.xml</relativePath>
 	</parent>
 
 	<groupId>br.com.weavenmc.skywars</groupId>
 	<artifactId>game-skywars</artifactId>
 	<name>game-skywars</name>
-	<version>3.1-SNAPSHOT</version>
+	<version>4.1-release</version>
 	<packaging>jar</packaging>
 
 	<dependencies>

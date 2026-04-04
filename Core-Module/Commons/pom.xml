@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>br.com.weavenmc</groupId>
 		<artifactId>WeavenMC-Module</artifactId>
-		<version>3.1-SNAPSHOT</version>
+		<version>4.1-release</version>
 		<relativePath>../../pom.xml</relativePath>
 	</parent>
 	<groupId>br.com.weavenmc.commons</groupId>
 	<artifactId>core-commons</artifactId>
 	<name>core-commons</name>
-	<version>3.1-SNAPSHOT</version>
+	<version>4.1-release</version>
 	<dependencies>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
